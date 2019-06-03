@@ -1,3 +1,3 @@
 # AndroidButton
 Android Button
-https://tutorial.eyehunt.in/android/android-button-example-onclickcolordesign-kotlin/
+https://tutorial.eyehunts.com/android/android-button-example-onclickcolordesign-kotlin/
